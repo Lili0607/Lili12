@@ -5,7 +5,7 @@ Aplikasi ini dibuat untuk memenuhi syarat pelaksanaan ukk jurusan RPL tahun pela
 Fitur dari kalkuator ini merupakan  operasi dasar matematika yaitu meliputi penambahan,pengurangan,perkalian,serta pembagian
 
 # Panduan pengguna
-Eksekusi file em.html sesuai tempatnya pada browser anda
+Eksekusi file ukklili.html sesuai tempatnya pada browser anda
 
 # Made by
 Lili,Kelas XII RPL 1,SMKN 1 Semparuk
